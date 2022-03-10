@@ -9,7 +9,7 @@ _Namu darbas - 3 website project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://github.com/XSYTO/7-namudarbailenteles
+Site published at: https://github.com/XSYTO/Homework3-BIT
 
 Design: [#](#)
 
